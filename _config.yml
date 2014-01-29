@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://wayne930242.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: phi10sophy
+subtitle: g0v X philosophy
+author: phi10sophers
 simple_search: http://google.com/search
-description:
+description: 這是一個 g0v 的人文專案，我們用思想探索資訊時代精神。
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user:g0vtw
 twitter_tweet_button: true
 
 # Google +1
@@ -97,4 +97,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
